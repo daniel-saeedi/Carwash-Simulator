@@ -1,0 +1,9 @@
+add_stage 1 2
+add_car 1
+show_carwash_info
+advance_time 1
+show_stage_info 0
+advance_time 2
+show_stage_info 0
+advance_time 1
+show_carwash_info

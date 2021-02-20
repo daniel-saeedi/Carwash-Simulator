@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"ready_to_wash"
+			],
+			[
+				"car",
+				"car_index"
+			],
+			[
+				"nu",
+				"number_of_occupied"
+			],
+			[
+				"set_w",
+				"set_start_work"
+			],
+			[
+				"get_worker",
+				"get_worker"
+			],
+			[
+				"get",
+				"get_waiting_cars_size()"
+			],
+			[
+				"work",
+				"worker_id"
+			],
+			[
+				"set_work",
+				"set_working_status"
+			],
+			[
+				"wor",
+				"workers."
+			],
+			[
+				"front",
+				"front_car_id"
+			],
+			[
+				"push",
+				"push_back()"
+			],
+			[
+				"new",
+				"newWork"
+			],
+			[
+				"stage",
+				"stageNo"
+			],
+			[
+				"worker",
+				"worker_id"
+			],
+			[
+				"oc",
+				"occupied_workers_id"
+			],
+			[
+				"un",
+				"unoccupied_workers"
+			],
+			[
+				"stag",
+				"stage_no"
+			],
+			[
+				"unc",
+				"unoccupied_worker_id"
+			],
+			[
+				"workers",
+				"workers_of_stage"
+			],
+			[
+				"time",
+				"time_start"
+			],
+			[
+				"tie",
+				"time_coefficient"
+			],
+			[
+				"add",
+				"addWorker"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"end",
+				"end_index"
+			],
+			[
+				"word",
+				"wordBetween"
+			],
+			[
+				"length",
+				"lengthOfLine"
+			],
+			[
+				"len",
+				"lengthOfLine"
+			],
+			[
+				"dest",
+				"dest_y"
+			],
+			[
+				"curent",
+				"current_row"
+			],
+			[
+				"des",
+				"destination_row"
+			],
+			[
+				"curre",
+				"current"
+			],
+			[
+				"curr",
+				"current_row"
+			],
+			[
+				"current",
+				"current_column"
+			],
+			[
+				"row",
+				"row_delta"
+			],
+			[
+				"new_",
+				"new_column"
+			],
+			[
+				"co",
+				"columnName"
+			],
+			[
+				"days",
+				"daysMapConstructor"
+			],
+			[
+				"movi",
+				"movieName"
+			],
+			[
+				"build",
+				"buildUpperWall"
+			],
+			[
+				"left",
+				"leftDistance"
+			],
+			[
+				"char",
+				"charProducer"
+			],
+			[
+				"mov",
+				"movieName"
+			],
+			[
+				"extract",
+				"extractMovieName"
+			],
+			[
+				"start",
+				"startingTime"
+			],
+			[
+				"print",
+				"printSpace"
+			],
+			[
+				"finish",
+				"finishH"
+			],
+			[
+				"sele",
+				"selectedMovie2"
+			],
+			[
+				"sel",
+				"selectedMovie2"
+			],
+			[
+				"compa",
+				"compareByNumber"
+			],
+			[
+				"fo",
+				"foundBestPlan"
+			],
+			[
+				"compar",
+				"compareByTimeString"
+			],
+			[
+				"compare",
+				"compareByTimeString"
+			],
+			[
+				"min",
+				"minuteMovie1"
+			],
+			[
+				"hour",
+				"hourMovie1"
+			],
+			[
+				"fi",
+				"findStartAndEnd"
+			],
+			[
+				"Movie",
+				"MovieName"
+			],
+			[
+				"line",
+				"lineNumber"
+			],
+			[
+				"ne",
+				"newMovie"
+			],
+			[
+				"count",
+				"countDigits"
+			],
+			[
+				"heights",
+				"heights_with_spaces"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/daniel/Desktop/AP/Project 1/A3-810198571.cpp",
+		"/Users/daniel/Desktop/AP/Project 1/1.out",
+		"/Users/daniel/Desktop/AP/Project 1/Braveheart.txt",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/main.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/v2.cpp",
+		"/Users/daniel/Desktop/AP/Project 1/1.in",
+		"/private/var/folders/vm/v0nt374s6078m_5v598g5q4m0000gn/T/wzQL.fsJGaT/part2.r",
+		"/Users/daniel/Desktop/CA1/CA#1-810198571/part2.r",
+		"/Users/daniel/Downloads/v2.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/main.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/testcases/1.in",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/1.in",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/testcases/1.sol",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/testcases/3.in",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project2/testcases/3.sol",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/6.Object-oriented-1/main.cpp",
+		"/Users/daniel/Desktop/probabaility/Project 1/part2-2.r",
+		"/Users/daniel/Desktop/midterm/out.txt",
+		"/Users/daniel/Desktop/midterm/testcase.txt",
+		"/Users/daniel/Desktop/midterm/main.cpp",
+		"/Users/daniel/Desktop/midterm/test.txt",
+		"/Users/daniel/Desktop/midterm/right.txt",
+		"/Users/daniel/Desktop/midterm/iut.txt",
+		"/Users/daniel/Desktop/midterm/center.txt",
+		"/Users/daniel/Desktop/midterm/left.txt",
+		"/Users/daniel/Desktop/midterm/out2.txt",
+		"/Users/daniel/Desktop/midterm/A3-810198571.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/5.backtracking/Maze.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/5.backtracking/Knightstour.cpp",
+		"/Users/daniel/Documents/test.cpp",
+		"/Users/daniel/Documents/GitHub/EngineeringProbabilityStatistics/CA1/part1.r",
+		"/Users/daniel/Documents/GitHub/EngineeringProbabilityStatistics/CA1/outcome2.csv",
+		"/Users/daniel/Documents/GitHub/EngineeringProbabilityStatistics/Project1/main.r",
+		"/Users/daniel/Desktop/A2-810198571/P3/in/1.in",
+		"/Users/daniel/Desktop/A2-810198571/P3.cpp",
+		"/Users/daniel/Desktop/A2-810198571/P2-2.cpp",
+		"/Users/daniel/Desktop/A2-810198571/P2-1.cpp",
+		"/Users/daniel/Desktop/A2-810198571/P1.cpp",
+		"/Users/daniel/Desktop/untitled.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/out2.out",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/Braveheart.txt",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/out.out",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/schedule.csv",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/Whiplash.html",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/header.html",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/web.html",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Project1/schedule2.csv",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercises/Exercise2-Recursion/P1.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercises/Exercise2-Recursion/P2-2.cpp",
+		"/Users/daniel/Documents/Assignment3/schedule.csv",
+		"/Users/daniel/Documents/Assignment3/Braveheart.txt",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/3.Recursion/BinarySearch.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/3.Recursion/reverse.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/3.Recursion/sumOfDigits.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/3.Recursion/convertToBinary.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/ReviewQuestions/3.Recursion/power.cpp",
+		"/private/var/folders/vm/v0nt374s6078m_5v598g5q4m0000gn/T/wzQL.SaLTuV/P3.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2-Recursion/P3.cpp",
+		"/Users/daniel/Desktop/Advanced Programming/Exercise 2/P3.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P2-1.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/out.out",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P2-2.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P2.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P1.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P3/in/3.in",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/Exercise2/P3.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/P3.cpp",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/P3/out/2-output.out",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/out.out",
+		"/Users/daniel/Documents/GitHub/AdvancedProgrammingUT/P3/out/2.out",
+		"/Users/daniel/Desktop/P3/in/1.in",
+		"/Users/daniel/Desktop/Advanced Programming/Exercise 2/P3/2.in",
+		"/Users/daniel/Desktop/P3/out/1.out",
+		"/Users/daniel/Desktop/P3/in/2.in",
+		"/Users/daniel/Desktop/Advanced Programming/Exercise 2/P2/2.in",
+		"/Users/daniel/Desktop/Advanced Programming/Exercise 2/P1.cpp",
+		"/Users/daniel/Desktop/Advanced Programming/pointers.cpp"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 51.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "v2.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

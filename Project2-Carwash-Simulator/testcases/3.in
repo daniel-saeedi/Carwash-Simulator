@@ -1,0 +1,7 @@
+add_stage 2 3 1
+add_stage 1 1
+add_stage 1 1
+add_car 2
+add_car 1
+finish
+show_carwash_info
